@@ -1,1 +1,2 @@
 This is dummy pull request for hectoberFest
+Now modified for new guidelines of HacktoberFest.
